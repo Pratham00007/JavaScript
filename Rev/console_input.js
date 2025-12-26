@@ -1,0 +1,1 @@
+let guess= parseInt(prompt("Guess a Number:"));

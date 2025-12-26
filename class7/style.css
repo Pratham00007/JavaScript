@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
